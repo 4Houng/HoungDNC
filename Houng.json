@@ -1,0 +1,17 @@
+{
+  "author": "Houng",
+  "version": "1.0.0",
+  "description": "暂只支持70~100等高难或8人副本",
+  "supportedJobs": [
+    {
+      "job": "DNC",
+      "contentScope": "HighEnd"
+    }
+  ],
+  "apiVersion": 15,
+  "referencePromeVersion": "1.5.9.7",
+  "downloadUrl": "https://raw.githubusercontent.com/4Houng/HoungDNC/cn/Houng.zip",
+  "sourceRepositoryUrl": "",
+  "sponsorUrl": "",
+  "sha256": "f55fed17a068584553ffb1e58c6ec0eb117363c47ce945e993b8c6bd665c8e17"
+}
