@@ -1,6 +1,6 @@
 {
   "author": "Houng",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "暂只支持70~100等高难或8人副本",
   "supportedJobs": [
     {
@@ -9,9 +9,9 @@
     }
   ],
   "apiVersion": 13,
-  "referencePromeVersion": "1.3.1.6",
+  "referencePromeVersion": "1.3.1.7",
   "downloadUrl": "https://raw.githubusercontent.com/4Houng/HoungDNC/tc/Houng.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "6f53312ff6dd7b75dd06138b16a8feb078599361809a8d92cc11afa5d33a0388"
+  "sha256": "821d35aacdf92007cdad200c72e53883d7c48c9f57612129a532bfd3c221ba6b"
 }
